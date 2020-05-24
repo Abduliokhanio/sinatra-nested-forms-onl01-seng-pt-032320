@@ -8,5 +8,8 @@ module FormsLab
       erb :root
     end
 
+    get '' do
+    end
+
   end
 end
